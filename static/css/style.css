@@ -1,0 +1,39 @@
+body {
+    color: #000000;
+    background: #201d1d
+}
+
+.panel > .panel-heading {
+    background: #741111; color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+.jumbotron {
+    background-image: url("../images/header.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.panel > .panel-body {
+    background: #302f2f; color: #fff;
+}
+
+.row > .col-md-2 > .well {
+    background: #302f2f; color: #fff;
+}
+.row > .col-md-2 > .well > h5 {
+    background: #302f2f; color: #fff;
+    font: 14px Georgia, sans-serif
+}
+
+.row > .col-md-2 > .well > select {
+    background: #302f2f; color: #fff;
+}
+
+.container > .row > .col-md-12 > h1 {
+    font: 60px Georgia, sans-serif
+};
